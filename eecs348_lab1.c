@@ -5,8 +5,8 @@
 
 //Main Function
 int main() {
-    //Print "hello world." into the terminal
-    printf("hello world.");
+    //Print "bye world." into the terminal
+    printf("bye world.");
     //Return nothing
     return 0;
 }
